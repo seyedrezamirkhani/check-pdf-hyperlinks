@@ -1,5 +1,5 @@
-# check-pdf-hyperlinks
-Shows hyperlinks in a given pdf file
+# Check PDF Hyperlinks
+Prints hyperlinks in a given pdf file to the screen
 
 # Setup
 
@@ -11,4 +11,4 @@ Shows hyperlinks in a given pdf file
 
 # Running the script
 
-python3 python_hyperlinks.py
+python3 print_hyperlinks.py
